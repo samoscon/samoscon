@@ -1,7 +1,6 @@
 ## Hi there 👋
-- 🌱 I’m currently learning github
 - 🔭 I’m currently working on 2 public repositories: samoscon/controller-framework (a MVC framework based on the principals described in M. Zandstra PHP8 objects book) and samoscon/membersactivities-framework, a basis for developing projects that provide clients with a ticketing or a subscriptions website.
-- 📫 How to reach me: You can reach me through my mail address
+- 📫 How to reach me: You can reach me through my professional mail address dirk.van.meirvenne@samosconsulting.be
 
 <!--
 **samoscon/samoscon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
